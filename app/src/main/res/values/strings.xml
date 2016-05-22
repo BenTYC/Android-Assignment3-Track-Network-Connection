@@ -48,4 +48,7 @@
     <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
     <string name="pref_units_imperial" translatable="false">imperial</string>
 
+    <string name="wifi_connected" translatable="false">Connected to Internet.</string>
+    <string name="lost_connection" translatable="false">Disconnected from Internet.</string>
+
 </resources>
