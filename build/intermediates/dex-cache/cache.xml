@@ -1,3 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.2_9c7746d76d1f86f4097f4671641201eefaefc06c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.2_0443349d072f12e157949eb6110c4ac804b17ce2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="aa4254714190d1af56002572d87e42f5e2fa7ed4">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4948b2ebc2c3350481e6eae59aa4d44ca38b88a3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/test/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.2_540a8e1715bbb238c9e9a8267ff4016353e7f6b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="d7dda4b50656c3aa479eaf4fc0966fc2b448c63b">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bd9b90e0f0e4005ad67c8639758a69417b4b1d2a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/test/AndroidStudioProjects/Android-assignment3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-21.0.2_17a244e20f9e6b4692c86ddb327775daa0b88ffa/classes.dex" />
+    </item>
+
+</items>
